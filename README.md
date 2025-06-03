@@ -47,4 +47,10 @@
 5.Model Tuning:	GridSearchCV, cross_val_score, RepeatedStratifiedKFold    
 6.Imbalanced Data: SMOTE from imblearn    
 7.Evaluation: confusion_matrix, classification_report, ConfusionMatrixDisplay    
-8.Model Saving: joblib    
+8.Model Saving: joblib
+
+
+**Output:** <a href="C:\Users\hp5cd\OneDrive\Pictures\LCP1.png"
+                    "C:\Users\hp5cd\OneDrive\Pictures\LCP4.png"
+                    "C:\Users\hp5cd\OneDrive\Pictures\LCP3.png"
+                    "C:\Users\hp5cd\OneDrive\Pictures\LCP2.png"></a> 
