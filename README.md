@@ -50,7 +50,9 @@
 8.Model Saving: joblib
 
 
-**Output:** <a href="C:\Users\hp5cd\OneDrive\Pictures\LCP1.png"></a>
-            <a href="C:\Users\hp5cd\OneDrive\Pictures\LCP4.png"></a>
-            <a href="C:\Users\hp5cd\OneDrive\Pictures\LCP3.png"></a>
-            <a href="C:\Users\hp5cd\OneDrive\Pictures\LCP2.png"></a> 
+**Output:** <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP1.png"></a>
+            <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP2.png"></a>
+            <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP3.png"></a>
+            <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP4.png"></a>
+
+            
