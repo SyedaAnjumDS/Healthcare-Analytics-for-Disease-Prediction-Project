@@ -6,15 +6,15 @@
 
 
 **Features:** 
-1. Cirrhosis Dataset Analysis
+1. Cirrhosis Dataset Analysis: 
     The dataset is loaded, cleaned, and preprocessed to remove missing or irrelevant values.
 
-2. Data Preprocessing Techniques
+2. Data Preprocessing Techniques: 
     Encoding categorical variables
     Handling class imbalance using SMOTE
     Feature scaling using StandardScaler
 
-3. Multiple Classifier Models Used
+3. Multiple Classifier Models Used: 
     This project uses the following models: Logistic Regression
                                             Decision Tree
                                             Random Forest
@@ -25,17 +25,17 @@
                                             KNN
                                             Naive Bayes
 
-4. Model Tuning & Evaluation
+4. Model Tuning & Evaluation: 
     Cross-validation with RepeatedStratifiedKFold
     GridSearchCV for hyperparameter tuning
     Evaluation with metrics like Accuracy, Confusion Matrix, Classification Report
 
-5. Visualization & EDA
+5. Visualization & EDA: 
     Correlation heatmap
     Class distribution plots
     Feature importance visualizations
 
-6. Model Saving
+6. Model Saving: 
     Models are saved using joblib for future use.
 
 
