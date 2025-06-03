@@ -40,11 +40,11 @@
 
 
 **Tech Stack Used:**
-1.Programming: Python
-2.Data Handling: pandas, numpy
-3.Visualization: matplotlib, seaborn
-4.ML Models: scikit-learn, xgboost, lightgbm, catboost
-5.Model Tuning:	GridSearchCV, cross_val_score, RepeatedStratifiedKFold
-6.Imbalanced Data: SMOTE from imblearn
-7.Evaluation: confusion_matrix, classification_report, ConfusionMatrixDisplay
-8.Model Saving: joblib
+1.Programming: Python       
+2.Data Handling: pandas, numpy    
+3.Visualization: matplotlib, seaborn    
+4.ML Models: scikit-learn, xgboost, lightgbm, catboost    
+5.Model Tuning:	GridSearchCV, cross_val_score, RepeatedStratifiedKFold    
+6.Imbalanced Data: SMOTE from imblearn    
+7.Evaluation: confusion_matrix, classification_report, ConfusionMatrixDisplay    
+8.Model Saving: joblib    
