@@ -50,9 +50,11 @@
 8.Model Saving: joblib
 
 
-**Output:** <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP1.png"></a>
-            <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP2.png"></a>
-            <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP3.png"></a>
-            <a href="https://github.com/SyedaAnjumDS/Healthcare-Analytics-for-Disease-Prediction-Project/edit/main/LCP4.png"></a>
+**Output:** ![LCP1](https://github.com/user-attachments/assets/0b33cc7f-6ec8-48e8-a1fc-97f29a8c69b2)
+            ![LCP2](https://github.com/user-attachments/assets/3628c7bf-84e9-40fa-968d-e59cd02a80e0)
+            ![LCP3](https://github.com/user-attachments/assets/b78cec8b-6705-4218-bf1c-5a6c0accdcb5)
+            ![LCP4](https://github.com/user-attachments/assets/af3b27ce-d419-4edf-aa38-ae041de3255a)
+
+
 
             
